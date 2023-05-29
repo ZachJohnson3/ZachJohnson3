@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating my own SaaS<br>🌱 I’m currently learning React and JavaScript <br>💬 Ask me about Options Trading<br>⚡ Squirtle was the best starting Pokémon 
+🔭 I’m currently working on creating my own SaaS<br>🌱 I’m currently learning Computer Vision and Advanced Statistics <br>💬 Ask me about Options Trading<br>⚡ Squirtle was the best starting Pokémon 
 
 
 ## 🌐 Socials:
